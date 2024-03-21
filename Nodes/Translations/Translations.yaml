@@ -9,8 +9,26 @@ Children:
   Value: 
    {
     "Type": 12,
-    "Dimensions": [1,2],
+    "Dimensions": [19,2],
     "Body": [
-     "","en-US"
+     "","en-US",
+     "Create","Create",
+     "Groups","Groups",
+     "EmptyUserList","No users in list",
+     "Delete","Delete",
+     "Apply","Apply",
+     "Cancel","Cancel",
+     "Name","Name",
+     "PasswordChangedTooRecently","Password changed too recently",
+     "Password","Password",
+     "Locale:","Locale:",
+     "CannotCreateUserWithEmptyUsername","Cannot create user with empty username",
+     "UnableToGetUsers","Unable to get users",
+     "UsernameAlreadyExists","Username already exists",
+     "UserNotFound","User not found",
+     "PasswordAlreadyUsed","Password already used in the past",
+     "PasswordTooShort","Password too short",
+     "UnsupportedOperation","Unsupported operation",
+     "ChangesAppliedSuccessfully","Changes applied successfully"
     ]
    }

@@ -58,15 +58,15 @@ Project:
    Module: FTOptix.NetLogic
    Version: 3.0
  Statistics:
-  TotalNodeCount: 147
-  Objects: 73
-  ObjectTypes: 1
-  Variables: 72
+  TotalNodeCount: 999
+  Objects: 225
+  ObjectTypes: 9
+  Variables: 761
   VariableTypes: 0
   DataTypes: 0
-  Methods: 1
-  References: 0
+  Methods: 4
+  References: 9
   ReferenceTypes: 0
-  Files: 20
+  Files: 21
  Nodes:
  - File: Nodes/DeleteUserTest.yaml
