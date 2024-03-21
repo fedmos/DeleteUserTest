@@ -17,6 +17,7 @@ public class RuntimeNetLogic1 : BaseNetLogic
     [ExportMethod]
     public void Test()
     {
+        Log.Error("AAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
         var rect = Owner.Get<Rectangle>("Rectangle1");
         if (rect == null)
             Log.Error("rect null");
